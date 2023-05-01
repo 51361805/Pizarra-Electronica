@@ -129,3 +129,32 @@ td {
   overflow-x: hidden;
 }
 
+.fondo{
+  width: 200px;
+  position: absolute;
+  margin-right: 15px;
+}
+
+
+a{
+  color: transparent;
+  width: 100px;
+margin-left: 200px;
+padding: 0px 50px;
+border-radius: 10px;
+height: 20px;
+}
+
+a:hover{
+  display: block;
+  background-color: rgb(165, 10, 10);
+  color: white;
+}
+.mostrador{
+  background-color: blue;
+  position: absolute;
+  color: white;
+  margin-top: 50px;
+ height: 25px;
+ margin-right: 180px;
+}
